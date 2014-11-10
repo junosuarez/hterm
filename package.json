@@ -1,6 +1,6 @@
 {
   "name": "hterm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "web terminal emulator",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "keywords": [
     "tty"
   ],
+  "repository": "https://github.com/jden/hterm",
   "author": "jden",
   "license": "BSD"
 }
